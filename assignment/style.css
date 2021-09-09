@@ -1,0 +1,23 @@
+.info{
+  background-color: purple;
+  color: white;
+}
+
+body{
+  text-align: center;
+}
+
+header{
+  background-color: orange;
+}
+
+h3{
+  background-color: lightblue;
+  color: red;
+}
+
+img{
+  border-style: double;
+  width: 50%
+  height: auto;
+}
